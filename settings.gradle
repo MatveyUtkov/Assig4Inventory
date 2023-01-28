@@ -1,0 +1,2 @@
+rootProject.name = "Assig4Inventory"
+include ':app'
